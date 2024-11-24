@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jes24Prog
-- 👀 I’m a Programmer
+- 👀 I’m a Full-Stack Developer
 
 
 <!---
