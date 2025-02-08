@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
 
 **Frontend:**
 - 🌐 HTML, CSS, JavaScript, React, TailwindCSS
-- 💻 UI/UX Design (Figma, Adobe XD)
+- 💻 UI/UX Design (Figma, Canva)
 
 **Backend:**
 - ⚡ Spring Boot, Java, Node.js, Express.js, Python, Django,
