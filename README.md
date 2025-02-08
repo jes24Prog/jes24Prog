@@ -1,8 +1,55 @@
-- 👋 Hi, I’m @jes24Prog
-- 👀 I’m a Full-Stack Developer
+# 👋 Hi, I'm @jes24Prog
+
+Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
+
+---
+
+## 🔧 Technologies & Tools
+
+**Frontend:**
+- 🌐 HTML, CSS, JavaScript, React, TailwindCSS
+- 💻 UI/UX Design (Figma, Adobe XD)
+
+**Backend:**
+- ⚡ Spring Boot, Java, Node.js, Express.js, Python, Django,
+- 🔧 RESTful APIs,
+
+**Databases:**
+- 🗄️ PostgreSQL, MySQL, Firebase
+
+**Version Control:**
+- 🧑‍💻 Git, GitHub
+
+**Deployment & Cloud:**
+- 🌍 Docker, Netlify, Firebase Hosting
+
+---
+
+## 🌟 What I Do
+
+- 🌐 Build **modern web applications** and user interfaces with cutting-edge technologies.
+- 🖥️ Design **scalable backends** and **RESTful APIs**.
+- 🛠️ Work with **databases** to manage and optimize data.
+- 🚀 Optimize code for **performance**, **scalability**, and **user experience**.
+- 🌱 Contribute to **open-source projects** and collaborate with other developers.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. **SOON**
+
+---
 
 
-<!---
-jes24Prog/jes24Prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Currently Learning
+
+- 📚 C#, ASP.NET, J2EE
+- 🖥️ Exploring high-performance applications.
+- 🔒 **Security** best practices for web apps.
+
+---
+
+Thank you for visiting my GitHub profile! 😄
+
+Let's build something amazing together! 🚀
