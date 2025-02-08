@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
 ## 🔧 Technologies & Tools
 
 **Frontend:**
-- 🌐 HTML, CSS, JavaScript, React, TailwindCSS
+- 🌐 HTML, CSS, JavaScript, TypeScript, React, TailwindCSS
 - 💻 UI/UX Design (Figma, Canva)
 
 **Backend:**
