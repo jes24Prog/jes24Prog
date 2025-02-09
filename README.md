@@ -31,6 +31,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
 - 🖥️ Design **scalable backends** and **RESTful APIs**.
 - 🛠️ Work with **databases** to manage and optimize data.
 - 🚀 Optimize code for **performance**, **scalability**, and **user experience**.
+- 🧩 Solving puzzles.
 
 ---
 
