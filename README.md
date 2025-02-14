@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
 
 ## 💻 Currently Learning
 
-- 📚 C#, ASP.NET, J2EE
+- 📚 Learning new technologi=ies
 - 🖥️ Exploring high-performance applications.
 - 🔒 **Security** best practices for web apps.
 
