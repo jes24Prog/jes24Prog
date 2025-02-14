@@ -46,7 +46,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
 
 ## 💻 Currently Learning
 
-- 📚 Learning new technologi=ies
+- 📚 Learning new technologies
 - 🖥️ Exploring high-performance applications.
 - 🔒 **Security** best practices for web apps.
 
