@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
 - 🧑‍💻 Git, GitHub
 
 **Deployment & Cloud:**
-- 🌍 Docker, Netlify, Firebase Hosting
+- 🌍 Vercel, Docker, Netlify, Firebase Hosting, Railway, Supabase
 
 ---
 
