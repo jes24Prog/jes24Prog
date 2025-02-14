@@ -29,7 +29,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
 
 ## 🌟 What I Do
 
-- 🌐 Build **modern web applications** and user interfaces with cutting-edge technologies.
+- 🌐 Build **modern applications** and user interfaces with cutting-edge technologies.
 - 🖥️ Design **scalable backends** and **RESTful APIs**.
 - 🛠️ Work with **databases** to manage and optimize data.
 - 🚀 Optimize code for **performance**, **scalability**, and **user experience**.
