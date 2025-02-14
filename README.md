@@ -16,6 +16,9 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
 **Databases:**
 - 🗄️ PostgreSQL, MySQL, Firebase
 
+**Testing:**
+- 🚀 JUnit, Postman
+
 **Version Control:**
 - 🧑‍💻 Git, GitHub
 
