@@ -19,6 +19,9 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
 **Testing:**
 - 🚀 JUnit, Postman
 
+**Game Development:**
+- 🎮 Unity, LibGDX, C#, Visual Studio
+
 **Version Control:**
 - 🧑‍💻 Git, GitHub
 
