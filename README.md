@@ -40,12 +40,6 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. **SOON**
-
----
-
 Thank you for visiting my GitHub profile! 😄
 
 Let's build something amazing together! 🚀
