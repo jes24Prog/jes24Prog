@@ -30,28 +30,19 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
 
 ---
 
-## 🌟 What I Do
-
-- 🌐 Build **modern applications** and user interfaces with cutting-edge technologies.
-- 🖥️ Design **scalable backends** and **RESTful APIs**.
-- 🛠️ Work with **databases** to manage and optimize data.
-- 🚀 Optimize code for **performance**, **scalability**, and **user experience**.
-- 🧩 Solving puzzles.
+## 🌟 What I Do:
+- 🌐 Build modern, responsive web applications and user interfaces using React and Tailwind CSS.
+- 🖥️ Design scalable backends with MVC architecture and RESTful APIs using Node.js, Express.js, Spring Boot, and Django.
+- 🛠️ Manage and optimize data using SQL and Firebase.
+- 🚀 Optimize code for performance, scalability, and user experience.
+- 🎮 Creating games using LibGDX and Unity.
+- 🧩 Solve programming puzzles and tackle complex challenges.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 1. **SOON**
-
----
-
-
-## 💻 Currently Learning
-
-- 📚 Learning new technologies
-- 🖥️ Exploring high-performance applications.
-- 🔒 **Security** best practices for web apps.
 
 ---
 
