@@ -31,15 +31,12 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
 ---
 
 ## 🌟 What I Do:
-- 🌐 Build modern, responsive web applications and user interfaces using React and Tailwind CSS.
+- 🌐 Build responsive web applications and user interfaces using React and Tailwind CSS.
 - 🖥️ Design scalable backends with MVC architecture and RESTful APIs using Node.js, Express.js, Spring Boot, and Django.
 - 🛠️ Manage and optimize data using SQL and Firebase.
 - 🚀 Optimize code for performance, scalability, and user experience.
 - 🎮 Creating games using LibGDX and Unity.
-- 🧩 Solve programming puzzles and tackle complex challenges.
 
 ---
 
 Thank you for visiting my GitHub profile! 😄
-
-Let's build something amazing together! 🚀
