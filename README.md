@@ -26,15 +26,5 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**.
 
 **Deployment & Cloud:**
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
----
-
-## 🌟 What I Do:
-- 🌐 Build responsive web applications and user interfaces using React and Tailwind CSS.
-- 🖥️ Design scalable backends with MVC architecture and RESTful APIs using Node.js, Express.js, Spring Boot, and Django.
-- 🛠️ Manage and optimize data using SQL and Firebase.
-- 🚀 Optimize code for performance, scalability, and user experience.
-- 🎮 Creating games using LibGDX and Unity.
-
----
 
 Thank you for visiting my GitHub profile! 😄
