@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=550&lines=Hi+%F0%9F%90%8B%2C+I'm+Jesus;Software+Engineer" alt="Typing SVG" />
+<div align="center">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=550&lines=Hi+%F0%9F%90%8B%2C+I'm+Jesus;Software+Engineer" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
@@ -23,6 +22,7 @@ I'm a **Software Engineer** specializing in **Backend Systems**, **Java**, **Spr
 ## 🛠️ Languages & Technologies
 
 ### ⚙️ Backend & Microservices
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
@@ -33,6 +33,7 @@ I'm a **Software Engineer** specializing in **Backend Systems**, **Java**, **Spr
 </p>
 
 ### 🎨 Frontend Development
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -45,6 +46,7 @@ I'm a **Software Engineer** specializing in **Backend Systems**, **Java**, **Spr
 </p>
 
 ### 🗄️ Databases & Storage
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -52,6 +54,7 @@ I'm a **Software Engineer** specializing in **Backend Systems**, **Java**, **Spr
 </p>
 
 ### ☁️ DevOps, Cloud & Deployment
+
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -62,6 +65,7 @@ I'm a **Software Engineer** specializing in **Backend Systems**, **Java**, **Spr
 </p>
 
 ### 🎮 Game Development & Tools
+
 <p>
   <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -69,6 +73,52 @@ I'm a **Software Engineer** specializing in **Backend Systems**, **Java**, **Spr
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
+
+---
+
+## 💼 Recent Works
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jes24Prog/resume-workbench">
+        <img src="https://raw.githubusercontent.com/jes24Prog/jes24Prog/refs/heads/main/images/resumeWorkbench.png" width="400" alt="Project 1"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jes24Prog/api-collection-studio">
+        <img src="https://raw.githubusercontent.com/jes24Prog/jes24Prog/refs/heads/main/images/apiCollectionStudio.png" width="400" alt="Project 2"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jes24Prog/regex-workbench">
+        <img src="https://raw.githubusercontent.com/jes24Prog/jes24Prog/refs/heads/main/images/regexWorkBench.png" width="400" alt="Project 3"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/jes24Prog/json-dev-workbench">
+        <img src="https://raw.githubusercontent.com/jes24Prog/jes24Prog/refs/heads/main/images/jsonWorkbench.png" width="400" alt="Project 4"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jes24Prog/yaml-tools">
+        <img src="https://raw.githubusercontent.com/jes24Prog/jes24Prog/refs/heads/main/images/yamlWorkbench.png" width="400" alt="Project 5"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jes24Prog/openapi-workbench">
+        <img src="https://raw.githubusercontent.com/jes24Prog/jes24Prog/refs/heads/main/images/openAPIWorkbench.png" width="400" alt="Project 6"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- To add more rows, copy a <table> block above and paste it below -->
 
 ---
 
