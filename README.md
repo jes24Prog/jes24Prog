@@ -124,7 +124,7 @@ I'm a **Software Engineer** specializing in **Backend Systems**, **Java**, **Spr
 ## 🎮 Play My Jump Game!
 
 <p align="center">
-  <a href="https://github.com/jes24Prog/jes24Prog/blob/main/games/jumpGame.html">
+  <a href="https://jes24prog.github.io/jes24Prog/games/jumpGame.html">
     <img src="https://img.shields.io/badge/🎮_CLICK_HERE_TO_PLAY_🎮-ff6b6b?style=for-the-badge&labelColor=1a0533&logo=javascript&logoColor=white&color=ff6b6b" alt="Play Game"/>
   </a>
 </p>
