@@ -121,6 +121,37 @@ I'm a **Software Engineer** specializing in **Backend Systems**, **Java**, **Spr
 
 ---
 
+## 🎮 Play My Jump Game!
+
+<p align="center">
+  <a href="https://github.com/jes24Prog/jes24Prog/blob/main/games/jumpGame.html">
+    <img src="https://img.shields.io/badge/🎮_CLICK_HERE_TO_PLAY_🎮-ff6b6b?style=for-the-badge&labelColor=1a0533&logo=javascript&logoColor=white&color=ff6b6b" alt="Play Game"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Press <b>SPACE</b> / <b>TAP</b> / <b>CLICK</b> to jump dodge obstacles and survive!</i>
+</p>
+
+<table align="center" width="70%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>⬆️ Jump</h3>
+      <p>SPACE / TAP</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔄 Double</h3>
+      <p>Tap twice!</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🏆 Survive</h3>
+      <p>Beat your best</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 <div align="center">
   <i>Thanks for visiting! Feel free to reach out or explore my repositories. 🚀</i>
 </div>
