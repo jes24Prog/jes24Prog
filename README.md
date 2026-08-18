@@ -15,7 +15,6 @@ I'm a **Software Engineer** specializing in **Backend Systems**, **Java**, **Spr
 - 💻 **Full-Stack Technologies**: Java, Spring Boot, React, TypeScript, Node.js, Express, Python, Django.
 - 🗄️ **Data & Cloud**: Relational databases (PostgreSQL, MySQL), Cloud deployment (AWS), and Containerization (Docker).
 - 🎮 **Game Dev**: Crafting 2D/3D games using Unity & C#.
-- 🎓 **Continuous Improvement**: Clean architecture, microservice design patterns, database optimization, and CI/CD pipelines.
 
 ---
 
